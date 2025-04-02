@@ -33,7 +33,7 @@
 
 /* Estilos para el input */
 input {
-  width: 50%;
+  width: 70%;
   padding: 10px;
   font-size: 16px;
   border: none;
@@ -44,7 +44,18 @@ input {
   margin-bottom: 20px;
 }
 
-
+.not {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  border-width: 1px;
+  border-style: solid;
+  color: white;
+}
 
 
 
